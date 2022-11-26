@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vaajiee
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter
+- 👋 Hi, I’m Abdul Vajid M
+- 👀 I’m interested in MERN
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on MERN
 - 📫 How to reach me vajidmohammed94@gmail.com
 
 <!---
